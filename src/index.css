@@ -1,0 +1,54 @@
+html, body {
+   height: 100%;
+   border: 0;
+   margin: 0;
+   font-family: Arial,Helvetica,sans-serif;
+   color: #FFFF88;
+}
+
+#banner {
+	position: absolute;
+	box-sizing: border-box;
+	top: 0px;
+	width: 100%;
+	padding: 10px;
+	font-size: 20px;
+   color: #FFFF88;
+	z-index: 1;
+}
+
+a {
+   color: #FFFF88;
+}
+
+#info {
+	position: absolute;
+	box-sizing: border-box;
+	top: 30px;
+	width: 100%;
+	padding: 10px;
+	font-size: 12px;
+	z-index: 1;
+}
+
+#info, #credits {
+	position: absolute;
+	box-sizing: border-box;
+	top: 30px;
+	width: 100%;
+	padding: 10px;
+	font-size: 12px;
+	z-index: 1;
+}
+
+#credits {
+	top: 50px;
+}
+
+#petri-dish {
+   position: absolute;
+   bottom: 0px;
+   right: 0px;
+   z-index: -1;
+}
+

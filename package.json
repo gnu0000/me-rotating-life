@@ -1,0 +1,20 @@
+{
+  "name": "rotatinglife",
+  "version": "1.0.0",
+  "description": "Three.js demo using my life canvas toy",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "three": "^0.129.0"
+  },
+  "devDependencies": {
+    "snowpack": "^3.5.7"
+  }
+}
