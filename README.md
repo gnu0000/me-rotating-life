@@ -1,4 +1,7 @@
 # me-rotating-life
-Demo using three.js and my life canvas demo
 
-https://craig-fitzgerald.com/
+rotating life demo
+
+This is a demo using snowpack, three.js and my life canvas toy
+
+http://craig/toys/rotatinglife/build/
